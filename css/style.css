@@ -170,6 +170,8 @@ nav {
         font-weight: 700; }
     .hero .container .row p {
       color: #ffffff; }
+    .hero .container .row .inner {
+      padding: 120px 0px; }
     .hero .container .row .actions {
       margin-top: 40px; }
       .hero .container .row .actions .addCart,

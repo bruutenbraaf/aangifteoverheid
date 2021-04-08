@@ -8,7 +8,7 @@ get_header(); ?>
                 <div class="container">
                     <div class="row">
                         <div class="offset-lg-1 col-lg-6 d-flex align-items-center">
-                            <div>
+                            <div class="inner">
                                 <?php the_sub_field('intro_tekst'); ?>
                                 <?php if (have_rows('call_to_action')) : ?>
                                     <div class="actions d-flex justify-center align-items-center">
