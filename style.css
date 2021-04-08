@@ -1,0 +1,19 @@
+/*
+Theme Name: Aangifte overheid
+Author: Bruut & Braaf
+Author URI: https://bruutebraaf.nl
+Description: Thema ontworpen voor Aangifteoverheid.nl.
+Version: 0.0
+License: bruutenbraaf.nl
+License URI: /
+Text Domain: ao
+
+/* algemeen */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
+@import url('css/bootstrap.min.css');
+@import url('css/slick.css');
+@import url('css/nice-select.css');
+@import url('css/style.min.css');
+
+

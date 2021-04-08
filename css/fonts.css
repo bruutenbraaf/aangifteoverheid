@@ -1,0 +1,9 @@
+/* Include Silka font */
+
+@font-face{ 
+	font-family: 'SilkaRegular';
+	src: url('../fonts/silka/silka-regular-webfont.eot');
+	src: url('../fonts/silka/silka-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/silka/silka-regular-webfont.woff') format('woff'),
+	     url('../fonts/silka/silka-regular-webfont.ttf') format('truetype'),
+}
